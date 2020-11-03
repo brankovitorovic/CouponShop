@@ -1,0 +1,4 @@
+shop1,pizzaCut
+shop2,bigPizza
+shop4,karibikPizza
+shop34,pizzaTrg

@@ -1,0 +1,8 @@
+5,Branko,Vitorovic,ADMINISTRATOR,branko,bmw 520d
+12,Mirko,Jelic,OPERATOR,mirko22,123456
+4,Cobran,Coby,OPERATOR,zver,pitajkonobara
+1242,Marko,Nekic,ADMINISTRATOR,helloWorld,admin
+1,Nikola,Mitar,OPERATOR,niko,qwerty
+886050972,Ajde,Radi,OPERATOR,proba,proba
+440700302,Jos,JednaProvera,ADMINISTRATOR,asd,asd
+1580501540,probaBroj,12312313,OPERATOR,proba123,123
